@@ -1,2 +1,2 @@
-# pie2016
+# PiE 2016
 Code for PiE 2016 Game
